@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elias Muchina
 - 👀 I’m interested in Web Development for Scalable business solutions
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, React Js and Next Js.
 - 💞️ I’m looking forward to collaborate with passionate dev teams 
 - 📫 How to reach me?, eliasmuchina254@gmail.com, +254796284552
 
